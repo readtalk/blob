@@ -2,7 +2,7 @@ import './globals.css'
 import { Inter } from 'next/font/google'
 
 export const metadata = {
-  title: 'READTalk',
+  title: 'READTalk - Avatar',
   description: 'READTalk Messenger',
 }
 
