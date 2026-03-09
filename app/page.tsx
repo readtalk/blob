@@ -9,7 +9,7 @@ export default function Home() {
     <main className="relative flex min-h-screen flex-col items-center justify-center">
       <Toaster />
       <Link
-        href="https://vercel.com/templates/next.js/blob-starter"
+        href="https://app-readtalk.pages.dev/"
         className="group mt-20 sm:mt-0 rounded-full flex space-x-1 bg-white/30 shadow-sm ring-1 ring-gray-900/5 text-gray-600 text-sm font-medium px-10 py-2 hover:shadow-lg active:shadow-sm transition-all"
       >
         <p>Next</p>
@@ -28,7 +28,7 @@ export default function Home() {
         >
           READTalk
         </Link>{' '}
-        demo. Built with{' '}
+        Built with{' '}
         <Link
           href="https://nextjs.org/docs"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
